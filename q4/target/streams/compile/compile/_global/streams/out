@@ -1,0 +1,28 @@
+[0m[[0m[31merror[0m] [0m[0mD:\q4\src\main\scala\Main.scala:5:21: not found: type Account[0m
+[0m[[0m[31merror[0m] [0m[0m    var bank : List[Account] = List( new Account("Farzan" , 1 , -1000) , new Account("Frosty" , 2 , 2000) )[0m
+[0m[[0m[31merror[0m] [0m[0m                    ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\q4\src\main\scala\Main.scala:5:42: not found: type Account[0m
+[0m[[0m[31merror[0m] [0m[0m    var bank : List[Account] = List( new Account("Farzan" , 1 , -1000) , new Account("Frosty" , 2 , 2000) )[0m
+[0m[[0m[31merror[0m] [0m[0m                                         ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\q4\src\main\scala\Main.scala:5:78: not found: type Account[0m
+[0m[[0m[31merror[0m] [0m[0m    var bank : List[Account] = List( new Account("Farzan" , 1 , -1000) , new Account("Frosty" , 2 , 2000) )[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                             ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\q4\src\main\scala\Main.scala:7:37: not found: type Account[0m
+[0m[[0m[31merror[0m] [0m[0m    val find = ( n : Int , b : List[Account]) => b.filter( x => x.accountNumber.equals( n ))[0m
+[0m[[0m[31merror[0m] [0m[0m                                    ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\q4\src\main\scala\Main.scala:9:32: not found: type Account[0m
+[0m[[0m[31merror[0m] [0m[0m    val overdraft = ( b : List[Account] ) => b.filter( x => x.balance < 0)[0m
+[0m[[0m[31merror[0m] [0m[0m                               ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\q4\src\main\scala\Main.scala:11:29: not found: type Account[0m
+[0m[[0m[31merror[0m] [0m[0m    val balance = ( b: List[Account] ) => b.map( x => (x,x.balance) ).reduce( (a , c) => x = (1,2,4,5,6)  )[0m
+[0m[[0m[31merror[0m] [0m[0m                            ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\q4\src\main\scala\Main.scala:11:80: missing parameter type[0m
+[0m[[0m[31merror[0m] [0m[0m    val balance = ( b: List[Account] ) => b.map( x => (x,x.balance) ).reduce( (a , c) => x = (1,2,4,5,6)  )[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                               ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\q4\src\main\scala\Main.scala:11:84: missing parameter type[0m
+[0m[[0m[31merror[0m] [0m[0m    val balance = ( b: List[Account] ) => b.map( x => (x,x.balance) ).reduce( (a , c) => x = (1,2,4,5,6)  )[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                                   ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\q4\src\main\scala\Main.scala:15:31: not found: type Account[0m
+[0m[[0m[31merror[0m] [0m[0m    val interest = ( b : List[Account] ) => b.map( x => {[0m
+[0m[[0m[31merror[0m] [0m[0m                              ^[0m
+[0m[[0m[31merror[0m] [0m[0m9 errors found[0m

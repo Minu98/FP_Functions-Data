@@ -1,0 +1,11 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging D:\q1\target\scala-2.13\hello-world_2.13-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	mypackage1[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\q1\target\scala-2.13\classes\mypackage1[0m
+[0m[[0m[0mdebug[0m] [0m[0m	mypackage1\problem01$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\q1\target\scala-2.13\classes\mypackage1\problem01$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	mypackage1\problem01.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\q1\target\scala-2.13\classes\mypackage1\problem01.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	mypackage1\Rational.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\q1\target\scala-2.13\classes\mypackage1\Rational.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
